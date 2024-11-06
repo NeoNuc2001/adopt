@@ -5,6 +5,8 @@ Official Implementation of "[ADOPT: Modified Adam Can Converge with Any $β_2$ w
 
 ADOPT requires PyTorch 2.4.0 or later.
 
+adopttf.py requires tensorflow instead.
+
 ## Usage
 
 You can use ADOPT just like any other PyTorch optimizers by copying `adopt.py` to your project.
